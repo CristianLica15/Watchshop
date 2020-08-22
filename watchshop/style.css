@@ -1,0 +1,397 @@
+.SmartWatch
+{
+    width: 1800px;
+    height: 900px;
+    background-image: url('./img/header-bg.png');
+    background-repeat: no-repeat;
+ 
+}
+.reviews
+{
+    margin-left: 85%;
+    margin-top: -8%;
+}
+.skills
+{
+    margin-top: -13%;
+}
+.expert 
+{
+    font-size: 22px;
+    color:gray;
+}
+.brand 
+{
+    color: royalblue;
+    font-size: 20px;
+}
+.expert4
+{
+    font-size: 22px;
+    color:gray;
+   display: block;
+   margin-left: 85%;
+ 
+}
+.support
+{
+    margin-left: 85%;
+    margin-top: -8%;
+
+}
+.made 
+{
+    font-size: 40px;
+}
+.listen 
+{
+    font-size: 30px;
+}
+.lorem 
+{
+    font-size: 22px;
+    color: gray;
+    width: 350px;
+    height: 150px;
+}
+.iha
+{
+    margin-left: 60%;
+    margin-top: -230px;
+}
+.large
+{
+    margin-left: 80%;
+}
+.list 
+{
+    margin-left: 80%;
+}
+.service 
+{
+    margin-left: 45%;
+}
+.features 
+{
+    text-align: center;
+    font-size: 50px;
+}
+
+.expert2
+{
+    margin-left: 45%;
+    color: gray;
+    font-size: 22px;
+}
+.expert
+{
+    font-size: 22px;
+    color:gray;
+   display: block;
+}
+.techn
+{
+    margin-top: -11%;
+}
+
+.extrem
+{
+    text-align: center;
+    color: gray;
+    font-size:20px;
+}
+.high
+{
+    margin-left: 45%;
+}
+.imag1 
+{
+    margin-top: -20%;
+width: 1200px;
+height: 600px;
+}
+.lorem2
+{
+    font-size: 25px;
+    color: gray;  
+    margin-left: 60%;
+    width: 350px;
+    height: 150px;
+    
+}
+.top 
+{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+.imag 
+{
+    margin-left: 40%;
+}
+.extremely
+{
+    text-align: center;
+    color: gray;
+    font-size: 30px;
+}
+.lorem3
+{
+    font-size: 25px;
+    color: gray;
+    width: 350px;
+    height: 150px;
+    margin-left: 80%;
+    display: block;
+}
+.details 
+{
+    width: 200px;
+    height: 100px;
+    color: white;
+    background-image: linear-gradient(aqua,blue);
+    font-size: 30px;
+    border-radius: 30px;
+    margin-left: 80%;
+}
+.logo
+{
+    width: auto;
+    height: auto;
+}
+.started
+{
+    border-radius: 30px;
+    background-color: gray;
+    color: black;
+    width: 350px;
+    height: 80px;
+    font-size: 20px;
+}
+.images 
+{
+    margin-left: 50%;
+}
+.now
+{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.smart
+ {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+.buy 
+{
+    border-radius: 20px;
+    background:white;
+    width: 150px;
+    height: 50px;
+    margin-left: 45%;
+}
+
+footer
+{
+    display: inline-block;
+    color: white;
+    font-size:20px;
+    margin-left: 5%;
+}
+
+.nav 
+{
+  display: flex;
+ justify-content: flex-end;
+ margin-right: 30px;
+ margin-left: 5%;
+}
+
+.WatchNumber 
+{
+    display: inline-block;
+}
+
+
+.watchW
+{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    background:white;
+}
+.watchB
+{
+    width: 300px;
+    height: 450px;
+    border-radius: 10px;
+    height: 500px;
+    background:white;
+}
+
+.watchBl
+{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    background:White;
+}
+.watchblc
+{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    
+}
+.SmartWatchMenu
+{
+    width: 1900px;
+    height: 800px;
+    background-color:#0b0b42;
+    margin:auto;
+    display: block;
+}
+.watchtext
+{
+    text-align: center;
+}
+.watchdetail
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.column {
+  float: left;
+  width: 24%;
+}
+.column3 {
+    float: left;
+    width: 50%;
+  }
+.column2 
+{
+    float:left;
+    width:33%;
+    background: lightgray;
+
+}
+.starsthree
+{
+width: 150px;
+height: 50px;
+}
+.starsthree2
+{
+width: 250px;
+height: 50px;
+}
+.row 
+{
+    margin-left: 5%;
+    background: white;
+}
+.row2
+{
+    margin-left: 5%;
+    background: lightgray;
+}
+.textstar
+{
+    font-size: 20px;
+    color:black;
+}
+.order
+{
+    background:gray;
+    border-radius: 30px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+}
+.price 
+{
+    color: teal;
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: 20px;
+}
+.startext
+{
+    text-align: center;
+    
+}
+.wtch
+{
+    margin-left: 10%;
+}
+.Questions
+{
+    width: auto;
+}
+.question
+{
+    color: white;
+    background-image: linear-gradient(blue,aqua);
+    font-size: 25px;
+    width: 50%;
+    margin-top: 5px;
+}
+.Ultimate
+{
+    text-align: center;
+    font-size: 22px;
+}
+.wtch2 
+{
+    width: 900px;
+    margin-left: -200px;
+}
+.img {
+    width: 1900px;
+    margin-left: 200px;
+    height: 400px;
+    background-image: url("./img/faq-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.newsletter 
+{
+    background-color: black;
+    color: gray;
+    font-size: 20px;
+    height: 350px;
+}
+.sletter 
+{
+    margin-left: 40%;
+    margin-top: -10%;
+}
+#arrow 
+{
+    background-image: linear-gradient(blue,aqua);
+    margin-left: 5px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    margin-top: -2%;
+}
+.email 
+{
+    width: 350px;
+    height: 30px;
+    background-color: black;
+    color: gray;
+    font-size: 20px;
+}
+.follow
+{
+    margin-left: 60%;
+    margin-top: -15%;
+}
+.iconite
+{
+    margin-left: 5%;
+}
